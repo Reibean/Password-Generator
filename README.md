@@ -1,5 +1,7 @@
+
 # Password-Generator
 Random Password Generator! Very user-friendly. Can be used by anyone and everyone for one purpose. Uses Javascript to decide random characters ranging from 8-64 characters long. Easy to use and guaranteed to include a very random mix characters to generate a genuinely random password.
+
 https://reibean.github.io/Password-Generator/
 
 # Usage
